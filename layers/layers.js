@@ -414,7 +414,7 @@ var lyr_Irish_70_true_28 = new ol.layer.Vector({
                 style: style_Irish_70_true_28,
                 popuplayertitle: 'Irish_70_true',
                 interactive: true,
-                title: '<img src="styles/legend/Irish_70_true_28.png" /> Irish_70_true'
+                title: '<img src="styles/legend/Irish_70_true_28.png" /> 70%≤ Gaeilge / Irish < 80%'
             });
 var group_English_90_true = new ol.layer.Group({
                                 layers: [lyr_English_90_true_4_20,lyr_English_90_true_3_21,lyr_English_90_true_2_22,lyr_English_90_true_1_23,],
