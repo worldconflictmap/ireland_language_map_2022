@@ -57,7 +57,7 @@ var lyr_English_Other_30_true_4 = new ol.layer.Vector({
                 style: style_English_Other_30_true_4,
                 popuplayertitle: 'English_Other_30_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_Other_30_true_4.png" /> English_Other_30_true'
+                title: '<img src="styles/legend/English_Other_30_true_4.png" /> 30%≤ English = Others <40%'
             });
 var format_English_Other_40_true_5 = new ol.format.GeoJSON();
 var features_English_Other_40_true_5 = format_English_Other_40_true_5.readFeatures(json_English_Other_40_true_5, 
@@ -72,7 +72,7 @@ var lyr_English_Other_40_true_5 = new ol.layer.Vector({
                 style: style_English_Other_40_true_5,
                 popuplayertitle: 'English_Other_40_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_Other_40_true_5.png" /> English_Other_40_true'
+                title: '<img src="styles/legend/English_Other_40_true_5.png" /> 40%≤ English = Others <50%'
             });
 var format_Irish_English_true_6 = new ol.format.GeoJSON();
 var features_Irish_English_true_6 = format_Irish_English_true_6.readFeatures(json_Irish_English_true_6, 
@@ -87,7 +87,7 @@ var lyr_Irish_English_true_6 = new ol.layer.Vector({
                 style: style_Irish_English_true_6,
                 popuplayertitle: 'Irish_English_true',
                 interactive: true,
-                title: '<img src="styles/legend/Irish_English_true_6.png" /> Irish_English_true'
+                title: '<img src="styles/legend/Irish_English_true_6.png" /> 40%≤ Irish = English <50%'
             });
 var format_Other_30_true_7 = new ol.format.GeoJSON();
 var features_Other_30_true_7 = format_Other_30_true_7.readFeatures(json_Other_30_true_7, 
@@ -102,7 +102,7 @@ var lyr_Other_30_true_7 = new ol.layer.Vector({
                 style: style_Other_30_true_7,
                 popuplayertitle: 'Other_30_true',
                 interactive: true,
-                title: '<img src="styles/legend/Other_30_true_7.png" /> Other_30_true'
+                title: '<img src="styles/legend/Other_30_true_7.png" /> 30%≤ Others <40%'
             });
 var format_Other_40_true_8 = new ol.format.GeoJSON();
 var features_Other_40_true_8 = format_Other_40_true_8.readFeatures(json_Other_40_true_8, 
@@ -117,7 +117,7 @@ var lyr_Other_40_true_8 = new ol.layer.Vector({
                 style: style_Other_40_true_8,
                 popuplayertitle: 'Other_40_true',
                 interactive: true,
-                title: '<img src="styles/legend/Other_40_true_8.png" /> Other_40_true'
+                title: '<img src="styles/legend/Other_40_true_8.png" /> 40%≤ Others <50%'
             });
 var format_Other_50_true_9 = new ol.format.GeoJSON();
 var features_Other_50_true_9 = format_Other_50_true_9.readFeatures(json_Other_50_true_9, 
@@ -132,7 +132,7 @@ var lyr_Other_50_true_9 = new ol.layer.Vector({
                 style: style_Other_50_true_9,
                 popuplayertitle: 'Other_50_true',
                 interactive: true,
-                title: '<img src="styles/legend/Other_50_true_9.png" /> Other_50_true'
+                title: '<img src="styles/legend/Other_50_true_9.png" /> 50%≤ Others <60%'
             });
 var format_Other_60_true_10 = new ol.format.GeoJSON();
 var features_Other_60_true_10 = format_Other_60_true_10.readFeatures(json_Other_60_true_10, 
@@ -147,7 +147,7 @@ var lyr_Other_60_true_10 = new ol.layer.Vector({
                 style: style_Other_60_true_10,
                 popuplayertitle: 'Other_60_true',
                 interactive: true,
-                title: '<img src="styles/legend/Other_60_true_10.png" /> Other_60_true'
+                title: '<img src="styles/legend/Other_60_true_10.png" /> 60%≤ Others <70%'
             });
 var format_Other_70_true_11 = new ol.format.GeoJSON();
 var features_Other_70_true_11 = format_Other_70_true_11.readFeatures(json_Other_70_true_11, 
@@ -162,7 +162,7 @@ var lyr_Other_70_true_11 = new ol.layer.Vector({
                 style: style_Other_70_true_11,
                 popuplayertitle: 'Other_70_true',
                 interactive: true,
-                title: '<img src="styles/legend/Other_70_true_11.png" /> Other_70_true'
+                title: '<img src="styles/legend/Other_70_true_11.png" /> 70%≤ Others <80%'
             });
 var format_Other_80_true_12 = new ol.format.GeoJSON();
 var features_Other_80_true_12 = format_Other_80_true_12.readFeatures(json_Other_80_true_12, 
@@ -177,7 +177,7 @@ var lyr_Other_80_true_12 = new ol.layer.Vector({
                 style: style_Other_80_true_12,
                 popuplayertitle: 'Other_80_true',
                 interactive: true,
-                title: '<img src="styles/legend/Other_80_true_12.png" /> Other_80_true'
+                title: '<img src="styles/legend/Other_80_true_12.png" /> 80%≤ Others <90%'
             });
 var format_Polish_40_true_13 = new ol.format.GeoJSON();
 var features_Polish_40_true_13 = format_Polish_40_true_13.readFeatures(json_Polish_40_true_13, 
@@ -192,7 +192,7 @@ var lyr_Polish_40_true_13 = new ol.layer.Vector({
                 style: style_Polish_40_true_13,
                 popuplayertitle: 'Polish_40_true',
                 interactive: true,
-                title: '<img src="styles/legend/Polish_40_true_13.png" /> Polish_40_true'
+                title: '<img src="styles/legend/Polish_40_true_13.png" /> 40%≤ Polish <50%'
             });
 var format_English_30_true_14 = new ol.format.GeoJSON();
 var features_English_30_true_14 = format_English_30_true_14.readFeatures(json_English_30_true_14, 
@@ -207,7 +207,7 @@ var lyr_English_30_true_14 = new ol.layer.Vector({
                 style: style_English_30_true_14,
                 popuplayertitle: 'English_30_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_30_true_14.png" /> English_30_true'
+                title: '<img src="styles/legend/English_30_true_14.png" /> 30%≤ English <40%'
             });
 var format_English_40_true_15 = new ol.format.GeoJSON();
 var features_English_40_true_15 = format_English_40_true_15.readFeatures(json_English_40_true_15, 
@@ -222,7 +222,7 @@ var lyr_English_40_true_15 = new ol.layer.Vector({
                 style: style_English_40_true_15,
                 popuplayertitle: 'English_40_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_40_true_15.png" /> English_40_true'
+                title: '<img src="styles/legend/English_40_true_15.png" /> 40%≤ English <50%'
             });
 var format_English_50_true_16 = new ol.format.GeoJSON();
 var features_English_50_true_16 = format_English_50_true_16.readFeatures(json_English_50_true_16, 
@@ -237,7 +237,7 @@ var lyr_English_50_true_16 = new ol.layer.Vector({
                 style: style_English_50_true_16,
                 popuplayertitle: 'English_50_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_50_true_16.png" /> English_50_true'
+                title: '<img src="styles/legend/English_50_true_16.png" /> 50%≤ English <60%'
             });
 var format_English_60_true_17 = new ol.format.GeoJSON();
 var features_English_60_true_17 = format_English_60_true_17.readFeatures(json_English_60_true_17, 
@@ -252,7 +252,7 @@ var lyr_English_60_true_17 = new ol.layer.Vector({
                 style: style_English_60_true_17,
                 popuplayertitle: 'English_60_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_60_true_17.png" /> English_60_true'
+                title: '<img src="styles/legend/English_60_true_17.png" /> 60%≤ English <70%'
             });
 var format_English_70_true_18 = new ol.format.GeoJSON();
 var features_English_70_true_18 = format_English_70_true_18.readFeatures(json_English_70_true_18, 
@@ -267,7 +267,7 @@ var lyr_English_70_true_18 = new ol.layer.Vector({
                 style: style_English_70_true_18,
                 popuplayertitle: 'English_70_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_70_true_18.png" /> English_70_true'
+                title: '<img src="styles/legend/English_70_true_18.png" /> 70%≤ English <80%'
             });
 var format_English_80_true_19 = new ol.format.GeoJSON();
 var features_English_80_true_19 = format_English_80_true_19.readFeatures(json_English_80_true_19, 
@@ -282,7 +282,7 @@ var lyr_English_80_true_19 = new ol.layer.Vector({
                 style: style_English_80_true_19,
                 popuplayertitle: 'English_80_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_80_true_19.png" /> English_80_true'
+                title: '<img src="styles/legend/English_80_true_19.png" /> 80%≤ English <90%'
             });
 var format_English_90_true_4_20 = new ol.format.GeoJSON();
 var features_English_90_true_4_20 = format_English_90_true_4_20.readFeatures(json_English_90_true_4_20, 
@@ -354,7 +354,7 @@ var lyr_English_100_true_24 = new ol.layer.Vector({
                 style: style_English_100_true_24,
                 popuplayertitle: 'English_100_true',
                 interactive: true,
-                title: '<img src="styles/legend/English_100_true_24.png" /> English_100_true'
+                title: '<img src="styles/legend/English_100_true_24.png" /> English =100%'
             });
 var format_Irish_40_true_25 = new ol.format.GeoJSON();
 var features_Irish_40_true_25 = format_Irish_40_true_25.readFeatures(json_Irish_40_true_25, 
@@ -369,7 +369,7 @@ var lyr_Irish_40_true_25 = new ol.layer.Vector({
                 style: style_Irish_40_true_25,
                 popuplayertitle: 'Irish_40_true',
                 interactive: true,
-                title: '<img src="styles/legend/Irish_40_true_25.png" /> Irish_40_true'
+                title: '<img src="styles/legend/Irish_40_true_25.png" /> 40%≤ Irish <50%'
             });
 var format_Irish_50_true_26 = new ol.format.GeoJSON();
 var features_Irish_50_true_26 = format_Irish_50_true_26.readFeatures(json_Irish_50_true_26, 
@@ -384,7 +384,7 @@ var lyr_Irish_50_true_26 = new ol.layer.Vector({
                 style: style_Irish_50_true_26,
                 popuplayertitle: 'Irish_50_true',
                 interactive: true,
-                title: '<img src="styles/legend/Irish_50_true_26.png" /> Irish_50_true'
+                title: '<img src="styles/legend/Irish_50_true_26.png" /> 50%≤ Irish <60%'
             });
 var format_Irish_60_true_27 = new ol.format.GeoJSON();
 var features_Irish_60_true_27 = format_Irish_60_true_27.readFeatures(json_Irish_60_true_27, 
@@ -399,7 +399,7 @@ var lyr_Irish_60_true_27 = new ol.layer.Vector({
                 style: style_Irish_60_true_27,
                 popuplayertitle: 'Irish_60_true',
                 interactive: true,
-                title: '<img src="styles/legend/Irish_60_true_27.png" /> Irish_60_true'
+                title: '<img src="styles/legend/Irish_60_true_27.png" /> 60%≤ Irish <70%'
             });
 var format_Irish_70_true_28 = new ol.format.GeoJSON();
 var features_Irish_70_true_28 = format_Irish_70_true_28.readFeatures(json_Irish_70_true_28, 
@@ -414,12 +414,12 @@ var lyr_Irish_70_true_28 = new ol.layer.Vector({
                 style: style_Irish_70_true_28,
                 popuplayertitle: 'Irish_70_true',
                 interactive: true,
-                title: '<img src="styles/legend/Irish_70_true_28.png" /> 70%≤ Gaeilge / Irish < 80%'
+                title: '<img src="styles/legend/Irish_70_true_28.png" /> 70%≤ Irish <80%'
             });
 var group_English_90_true = new ol.layer.Group({
                                 layers: [lyr_English_90_true_4_20,lyr_English_90_true_3_21,lyr_English_90_true_2_22,lyr_English_90_true_1_23,],
                                 fold: 'open',
-                                title: '<img src="styles/legend/English_90_true_2_22.png" /> English_90_true'});
+                                title: '<img src="styles/legend/English_90_true_2_22.png" /> 90%≤ English <100%'});
 
 lyr_GoogleHybrid_0.setVisible(false);lyr_GoogleSatellite_1.setVisible(false);lyr_GoogleLabels_2.setVisible(false);lyr_OSMStandard_3.setVisible(true);lyr_English_Other_30_true_4.setVisible(true);lyr_English_Other_40_true_5.setVisible(true);lyr_Irish_English_true_6.setVisible(true);lyr_Other_30_true_7.setVisible(true);lyr_Other_40_true_8.setVisible(true);lyr_Other_50_true_9.setVisible(true);lyr_Other_60_true_10.setVisible(true);lyr_Other_70_true_11.setVisible(true);lyr_Other_80_true_12.setVisible(true);lyr_Polish_40_true_13.setVisible(true);lyr_English_30_true_14.setVisible(true);lyr_English_40_true_15.setVisible(true);lyr_English_50_true_16.setVisible(true);lyr_English_60_true_17.setVisible(true);lyr_English_70_true_18.setVisible(true);lyr_English_80_true_19.setVisible(true);lyr_English_90_true_4_20.setVisible(true);lyr_English_90_true_3_21.setVisible(true);lyr_English_90_true_2_22.setVisible(true);lyr_English_90_true_1_23.setVisible(true);lyr_English_100_true_24.setVisible(true);lyr_Irish_40_true_25.setVisible(true);lyr_Irish_50_true_26.setVisible(true);lyr_Irish_60_true_27.setVisible(true);lyr_Irish_70_true_28.setVisible(true);
 var layersList = [lyr_GoogleHybrid_0,lyr_GoogleSatellite_1,lyr_GoogleLabels_2,lyr_OSMStandard_3,lyr_English_Other_30_true_4,lyr_English_Other_40_true_5,lyr_Irish_English_true_6,lyr_Other_30_true_7,lyr_Other_40_true_8,lyr_Other_50_true_9,lyr_Other_60_true_10,lyr_Other_70_true_11,lyr_Other_80_true_12,lyr_Polish_40_true_13,lyr_English_30_true_14,lyr_English_40_true_15,lyr_English_50_true_16,lyr_English_60_true_17,lyr_English_70_true_18,lyr_English_80_true_19,group_English_90_true,lyr_English_100_true_24,lyr_Irish_40_true_25,lyr_Irish_50_true_26,lyr_Irish_60_true_27,lyr_Irish_70_true_28];
