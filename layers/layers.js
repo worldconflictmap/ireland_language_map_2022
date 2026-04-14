@@ -37,6 +37,7 @@ var wms_layers = [];
         var lyr_OSMStandard_3 = new ol.layer.Tile({
             'title': 'OSM Standard',
             'opacity': 1.000000,
+            'referrerPolicy': 'strict-origin-when-cross-origin'
             
             
             source: new ol.source.XYZ({
